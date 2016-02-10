@@ -2702,3 +2702,8 @@ body {
     padding: 1em; }
     .cover nav i {
       font-size: 40px; }
+  .cover .title {
+    margin: 1em; }
+  .cover .subtitle {
+    max-width: 300px;
+    line-height: 1.5; }
